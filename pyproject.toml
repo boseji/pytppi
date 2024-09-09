@@ -1,12 +1,12 @@
 [project]
 name = "pytppi"
-version = "0.1"
+version = "0.2"
 dependencies = []
 requires-python = ">= 3.8"
 authors = [{ name = "Abhijit Bose (aka. boseji)" }]
 description = "tppi stands for Tilde Pipe Plus Interface"
 readme = "README.md"
-license = { file = "LICENSE.txt" }
+#license = { file = "LICENSE.txt" }
 keywords = ["communication", "encoding", "string", "iot", "industrial"]
 classifiers = [
     # How mature is this project? 
